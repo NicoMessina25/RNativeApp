@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "RNativeApp",
+    "slug": "RNativeApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "RNativeApp"
+}
