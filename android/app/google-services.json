@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234250394450",
+    "firebase_url": "https://pwatest-44b82-default-rtdb.firebaseio.com",
+    "project_id": "pwatest-44b82",
+    "storage_bucket": "pwatest-44b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234250394450:android:6c4430dc1f4e2436ca788b",
+        "android_client_info": {
+          "package_name": "com.rnativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234250394450-20vd8fjk73kdne3r59q8f3lddjuiudjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSYQ6fdNcxu9mWzN-YW6rqil-pCZ01wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234250394450-20vd8fjk73kdne3r59q8f3lddjuiudjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
